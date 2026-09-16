@@ -1,8 +1,8 @@
-class Employee20{
+class Employee{
 	int empid;
 	String name;
 	double salary;
-	Employee20(int id, String n, double sal){
+	Employee(int id, String n, double sal){
 		empid=id;
 		name=n;
 		salary=sal;
